@@ -6,26 +6,26 @@ A simple and elegant React application that generates random motivational quotes
 ![Vite](https://img.shields.io/badge/Vite-4.0-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## ✨ Features
+##  Features
 
-- 🎲 Random quote generation
-- 🌙 Dark/Light mode toggle
-- 📱 Responsive design
-- ⚡ Fast performance with Vite
-- 🎨 Smooth transitions
+-  Random quote generation
+-  Dark/Light mode toggle
+-  Responsive design
+-  Fast performance with Vite
+-  Smooth transitions
 
-## 🚀 Live Demo
+##  Live Demo
 
 [View Live Demo](your-github-pages-link-here)
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - React
 - Vite
 - useState & useEffect hooks
 - CSS-in-JS styling
 
-## 📦 Installation
+##  Installation
 
 ```bash
 # Clone the repository
